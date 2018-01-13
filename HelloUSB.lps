@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <Version Value="11"/>
+    <BuildModes Active="Release"/>
+    <Units Count="12">
+      <Unit0>
+        <Filename Value="HelloUSB.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="42"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="UMainFormHelloUSB.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="FormHelloUSB"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <IsVisibleTab Value="True"/>
+        <CursorPos X="5" Y="3"/>
+        <UsageCount Value="42"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="pas-libusb-libusb-1.0/src/libusb.pas"/>
+        <UnitName Value="LibUsb"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="626"/>
+        <CursorPos X="26" Y="636"/>
+        <UsageCount Value="22"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="pas-libusb-libusb-1.0/src/examples/mydevice.pas"/>
+        <UnitName Value="MyDevice"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="93"/>
+        <CursorPos X="47" Y="102"/>
+        <UsageCount Value="22"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="pas-libusb-libusb-1.0/src/libusboop.pas"/>
+        <UnitName Value="LibUsbOop"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1032"/>
+        <CursorPos X="43" Y="1047"/>
+        <UsageCount Value="22"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="pas-libusb-libusb-1.0/src/libusbutil.pas"/>
+        <UnitName Value="LibUsbUtil"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="59"/>
+        <CursorPos X="3" Y="69"/>
+        <UsageCount Value="22"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="pas-libusb-libusb-1.0/src/ezusb.pas"/>
+        <UnitName Value="EZUSB"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="76"/>
+        <CursorPos X="6" Y="83"/>
+        <UsageCount Value="22"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="useport/useport1.pas"/>
+        <ComponentName Value="Form1"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="242"/>
+        <CursorPos X="13" Y="266"/>
+        <UsageCount Value="22"/>
+      </Unit7>
+      <Unit8>
+        <Filename Value="pas-libusb-libusb-1.0/src/examples/test2controlsync.pas"/>
+        <UnitName Value="Test2ControlSync"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="73"/>
+        <CursorPos X="40" Y="100"/>
+        <UsageCount Value="21"/>
+      </Unit8>
+      <Unit9>
+        <Filename Value="pas-libusb-libusb-1.0/src/examples/test1library.pas"/>
+        <UnitName Value="Test1Library"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="75"/>
+        <UsageCount Value="21"/>
+      </Unit9>
+      <Unit10>
+        <Filename Value="pas-libusb-libusb-1.0/src/examples/test3controlasync.pas"/>
+        <UnitName Value="Test3ControlAsync"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="91"/>
+        <CursorPos X="64" Y="14"/>
+        <UsageCount Value="8"/>
+      </Unit10>
+      <Unit11>
+        <Filename Value="../../../fpc/default/src/rtl/objpas/sysutils/sysutilh.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="82"/>
+        <CursorPos X="4" Y="99"/>
+        <UsageCount Value="9"/>
+      </Unit11>
+    </Units>
+    <JumpHistory Count="28" HistoryIndex="27">
+      <Position1>
+        <Filename Value="UMainFormHelloUSB.pas"/>
+        <Caret Line="286" Column="16" TopLine="280"/>
+      </Position1>
+      <Position2>
+        <Filename Value="UMainFormHelloUSB.pas"/>
+        <Caret Line="324" Column="18" TopLine="299"/>
+      </Position2>
+      <Position3>
+        <Filename Value="UMainFormHelloUSB.pas"/>
+        <Caret Line="326" Column="18" TopLine="301"/>
+      </Position3>
+      <Position4>
+        <Filename Value="UMainFormHelloUSB.pas"/>
+        <Caret Line="414" Column="17" TopLine="395"/>
+      </Position4>
+      <Position5>
+        <Filename Value="UMainFormHelloUSB.pas"/>
+        <Caret Line="327" Column="7" TopLine="318"/>
+      </Position5>
+      <Position6>
+        <Filename Value="UMainFormHelloUSB.pas"/>
+        <Caret Line="45" Column="26" TopLine="31"/>
+      </Position6>
+      <Position7>
+        <Filename Value="UMainFormHelloUSB.pas"/>
+        <Caret Line="176" Column="19" TopLine="161"/>
+      </Position7>
+      <Position8>
+        <Filename Value="UMainFormHelloUSB.pas"/>
+        <Caret Line="329" Column="7" TopLine="305"/>
+      </Position8>
+      <Position9>
+        <Filename Value="UMainFormHelloUSB.pas"/>
+        <Caret Line="109" Column="22" TopLine="91"/>
+      </Position9>
+      <Position10>
+        <Filename Value="UMainFormHelloUSB.pas"/>
+        <Caret Line="272" Column="11" TopLine="263"/>
+      </Position10>
+      <Position11>
+        <Filename Value="UMainFormHelloUSB.pas"/>
+        <Caret Line="335" Column="6" TopLine="328"/>
+      </Position11>
+      <Position12>
+        <Filename Value="UMainFormHelloUSB.pas"/>
+        <Caret Line="115" Column="79" TopLine="101"/>
+      </Position12>
+      <Position13>
+        <Filename Value="UMainFormHelloUSB.pas"/>
+        <Caret Line="336" Column="6" TopLine="316"/>
+      </Position13>
+      <Position14>
+        <Filename Value="UMainFormHelloUSB.pas"/>
+        <Caret Line="322" Column="5" TopLine="316"/>
+      </Position14>
+      <Position15>
+        <Filename Value="UMainFormHelloUSB.pas"/>
+        <Caret Line="336" TopLine="316"/>
+      </Position15>
+      <Position16>
+        <Filename Value="UMainFormHelloUSB.pas"/>
+        <Caret Line="343" TopLine="318"/>
+      </Position16>
+      <Position17>
+        <Filename Value="UMainFormHelloUSB.pas"/>
+        <Caret Line="408" TopLine="393"/>
+      </Position17>
+      <Position18>
+        <Filename Value="UMainFormHelloUSB.pas"/>
+        <Caret Line="409" Column="10" TopLine="393"/>
+      </Position18>
+      <Position19>
+        <Filename Value="UMainFormHelloUSB.pas"/>
+        <Caret Line="505" Column="68" TopLine="485"/>
+      </Position19>
+      <Position20>
+        <Filename Value="UMainFormHelloUSB.pas"/>
+        <Caret Line="421" Column="50" TopLine="412"/>
+      </Position20>
+      <Position21>
+        <Filename Value="UMainFormHelloUSB.pas"/>
+        <Caret Line="438" Column="63" TopLine="418"/>
+      </Position21>
+      <Position22>
+        <Filename Value="UMainFormHelloUSB.pas"/>
+        <Caret Line="435" Column="16" TopLine="418"/>
+      </Position22>
+      <Position23>
+        <Filename Value="UMainFormHelloUSB.pas"/>
+        <Caret Line="437" Column="10" TopLine="429"/>
+      </Position23>
+      <Position24>
+        <Filename Value="UMainFormHelloUSB.pas"/>
+        <Caret Line="46" Column="27" TopLine="29"/>
+      </Position24>
+      <Position25>
+        <Filename Value="UMainFormHelloUSB.pas"/>
+        <Caret Line="277" Column="42" TopLine="259"/>
+      </Position25>
+      <Position26>
+        <Filename Value="UMainFormHelloUSB.pas"/>
+        <Caret Line="249" Column="34" TopLine="230"/>
+      </Position26>
+      <Position27>
+        <Filename Value="UMainFormHelloUSB.pas"/>
+        <Caret Line="142" Column="6" TopLine="127"/>
+      </Position27>
+      <Position28>
+        <Filename Value="UMainFormHelloUSB.pas"/>
+        <Caret Line="280" Column="20" TopLine="252"/>
+      </Position28>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="0" ActiveMode="default"/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
