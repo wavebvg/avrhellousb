@@ -1,4 +1,4 @@
-Это простой GUI под [Lazarus](http://www.lazarus-ide.org/), для тестирования макетной платы [AVR-USB-MEGA16](http://microsin.net/programming/AVR/avr-usb-mega16.html)
+Это простой GUI под [Lazarus](http://www.lazarus-ide.org/), для тестирования макетной платы [AVR-USB-MEGA16](http://microsin.net/programming/AVR/avr-usb-mega16.html). Является портом проекта [useport](http://www.vanoid.ru/avr/) (инструкцией по подготовке платы можно воспользоваться со страницы оригинального проекта). 
 
 Тестировался только под Linux.
 
