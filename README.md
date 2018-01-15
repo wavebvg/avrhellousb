@@ -1,5 +1,6 @@
 Это простой GUI под [Lazarus](http://www.lazarus-ide.org/), для тестирования макетной платы [AVR-USB-MEGA16](http://microsin.net/programming/AVR/avr-usb-mega16.html)
-Тестировался под Linux.
+
+Тестировался только под Linux.
 
 ![Картинка](https://github.com/wavebvg/avrhellousb/raw/master/avrhellousb.png)
 
